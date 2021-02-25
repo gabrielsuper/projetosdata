@@ -14,8 +14,8 @@ Sou formado em Ciêncas Contábeis, tabalhei por anos em uma empresa de telemark
 
 **Links:**
 * [Blog](---)
-* [LinkedIn](---)
-* [Medium](---)
+* [LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-5615501b6/)
+* [Medium](https://medium.com/@gcoliveiracon)
 
 
 ## Área de projetos:
