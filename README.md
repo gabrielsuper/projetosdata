@@ -22,6 +22,6 @@ Sou formado em Ciêncas Contábeis, tabalhei por anos em uma empresa de telemark
 
 Veja os meus projetos publicados:
 
-<sub> *Em breve!* </sub>
+<* **Dados do Airbnb Cidade de Porto:** https://bit.ly/2L2cMwy
 
 ---
