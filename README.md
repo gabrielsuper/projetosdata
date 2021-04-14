@@ -23,6 +23,5 @@ Sou formado em Ciêncas Contábeis, tabalhei por anos em uma empresa de telemark
 Veja os meus projetos publicados:
 
 * **Dados do Airbnb Cidade de Porto:** https://bit.ly/3q1gCrc
-* **Analisando a Violência na Cidade do Rio de Janeiro:** https://bit.ly/3tkHSTS
-
+* **Analisando a Violência na Cidade do Rio de Janeiro:** https://bit.ly/3abL4tH
 ---
