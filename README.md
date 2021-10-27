@@ -25,4 +25,5 @@ Veja os meus projetos publicados:
 * **Dados do Airbnb Cidade de Porto:** https://bit.ly/3q1gCrc
 * **Analisando a Violência na Cidade do Rio de Janeiro:** https://bit.ly/3abL4tH
 * **Panorama do Covid-19 no Brasil:** https://bit.ly/3jdPOUX
+* **Deteccção de Fraude em Cartão de Crédito:** https://bit.ly/3nzupWG
 ---
