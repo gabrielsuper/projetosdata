@@ -7,18 +7,18 @@
   "websites": [
     {
       "url": "https://www.acordacidade.com.br/",
-      "duration": 0,
-      "tabReloadIntervalSeconds": 3
+      "duration": 10,
+      "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://www.google.com.br/",
-      "duration": 0,
-      "tabReloadIntervalSeconds": 3
+      "duration": 10,
+      "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://conteflex.com.br/",
-      "duration": 0,
-      "tabReloadIntervalSeconds": 3
+      "duration": 10,
+      "tabReloadIntervalSeconds": 60
     }
   ]
 }
