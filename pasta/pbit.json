@@ -1,24 +1,24 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": false,
+  "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "closeExistingTabs": true,
   "websites": [
     {
       "url": "https://www.acordacidade.com.br/",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
+      "duration": 0,
+      "tabReloadIntervalSeconds": 3
     },
     {
       "url": "https://www.google.com.br/",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
+      "duration": 0,
+      "tabReloadIntervalSeconds": 3
     },
     {
       "url": "https://conteflex.com.br/",
-      "duration": 3,
-      "tabReloadIntervalSeconds": 0
+      "duration": 0,
+      "tabReloadIntervalSeconds": 3
     }
   ]
 }
