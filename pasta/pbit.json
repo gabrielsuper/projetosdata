@@ -1,24 +1,24 @@
 {
   "settingsReloadIntervalMinutes": 1,
-  "fullscreen": true,
+  "fullscreen": false,
   "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": true,
+  "closeExistingTabs": false,
   "websites": [
     {
-      "url": "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/index.html",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://www.acordacidade.com.br/",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://www.patreon.com/kevdev",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "url": "https://www.google.com.br/",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
     },
     {
       "url": "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
     }
   ]
 }
