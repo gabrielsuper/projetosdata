@@ -7,8 +7,8 @@
   "websites": [
     {
       "url":" javascript: (function(){document.querySelector("body").requestFullscreen();})();",
-      "duration": 0,
-      "tabReloadIntervalSeconds": 0
+      "duration": 10,
+      "tabReloadIntervalSeconds": 30
     }
   ]
 }
