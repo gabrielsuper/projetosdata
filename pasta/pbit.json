@@ -7,17 +7,17 @@
   "websites": [
     {
       "url": "https://app.powerbi.com/groups/me/reports/5227658e-688e-4afe-be6a-696e81364af9/ReportSection1f6559889554a9486619?chromeless=1",
-      "duration": 60,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/me/reports/5227658e-688e-4afe-be6a-696e81364af9/ReportSectionbe10e29d7c7b98627fde?chromeless=1",
-      "duration": 60,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     },
     {
       "url": "https://app.powerbi.com/groups/me/reports/5227658e-688e-4afe-be6a-696e81364af9/ReportSection34218941dbbb00e01779?chromeless=1",
-      "duration": 60,
+      "duration": 120,
       "tabReloadIntervalSeconds": 60
     }
   ]
