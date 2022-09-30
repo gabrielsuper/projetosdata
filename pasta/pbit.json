@@ -1,10 +1,15 @@
 {
   "settingsReloadIntervalMinutes": 1,
   "fullscreen": true,
-  "autoStart": false,
-  "lazyLoadTabs": false,
+  "autoStart": true,
+  "lazyLoadTabs": true,
   "closeExistingTabs": true,
   "websites": [
+    {
+      "url": "javascript: (function(){document.querySelector("body").requestFullscreen();})();",
+      "duration": 0,
+      "tabReloadIntervalSeconds": 0
+    },
     {
       "url": "https://app.powerbi.com/groups/me/reports/5227658e-688e-4afe-be6a-696e81364af9/ReportSection1f6559889554a9486619?chromeless=1",
       "duration": 180,
