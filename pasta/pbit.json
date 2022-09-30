@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url":" javascript: (function(){document.querySelector("body").requestFullscreen();})();",
+      "url":" javascript: (function(){document.querySelector(body).requestFullscreen();})();",
       "duration": 0,
       "tabReloadIntervalSeconds": 0
     }
