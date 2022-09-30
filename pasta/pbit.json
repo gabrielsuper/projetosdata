@@ -6,17 +6,17 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://www.acordacidade.com.br/",
+      "url": "https://app.powerbi.com/groups/me/reports/5227658e-688e-4afe-be6a-696e81364af9/ReportSection1f6559889554a9486619?chromeless=1",
       "duration": 10,
       "tabReloadIntervalSeconds": 60
     },
     {
-      "url": "https://www.google.com.br/",
+      "url": "https://app.powerbi.com/groups/me/reports/5227658e-688e-4afe-be6a-696e81364af9/ReportSectionbe10e29d7c7b98627fde?chromeless=1",
       "duration": 10,
       "tabReloadIntervalSeconds": 60
     },
     {
-      "url": "https://conteflex.com.br/",
+      "url": "https://app.powerbi.com/groups/me/reports/5227658e-688e-4afe-be6a-696e81364af9/ReportSection34218941dbbb00e01779?chromeless=1",
       "duration": 10,
       "tabReloadIntervalSeconds": 60
     }
